@@ -1,0 +1,76 @@
+body {
+    background-color: aquamarine;
+}
+.kocke {
+    display: grid;
+    
+}
+.kolonaA {
+    background-color: chartreuse;
+}
+.kolonaB {
+    grid-column-start: 2;
+    background-color: coral;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+button {
+    height: 50px;
+    width: 250px;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 70px;
+    background-color: rgb(57, 223, 223);
+}
+input {
+    height: 50px;
+    width: 250px;
+    border: 2px solid black;
+    padding: 5px 15px 5px 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: rgb(62, 114, 211);
+    
+}
+#finalno {
+    
+    float: right;
+}
+#kolA {
+    margin-left: 150px;
+}
+.finalno {
+    margin-left: 450px;
+    
+    
+}
+.kolonaV {
+    grid-column-start: 1;
+    background-color: blueviolet;
+}
+#kolV {
+    margin-left: 150px;
+    
+}
+.kolonaG {
+    grid-column-start: 2;
+    background-color: yellow;
+}
+.konacnoG {
+    margin-right: 150px;
+}
+#konacnoB {
+    margin-left: -80px;
+}
+#konacnoG {
+    margin-left: -80px;
+}
+.unos {
+    background-color: rgb(235, 26, 154);
+}
+#provA {
+    margin-left: 200px;
+}
